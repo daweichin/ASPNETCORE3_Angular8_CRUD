@@ -1,0 +1,5 @@
+.vscode
+.vs
+
+ASPNETCORE_Angular_Crud/bin
+ASPNETCORE_Angular_Crud/obj

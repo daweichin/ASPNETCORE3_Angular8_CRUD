@@ -1,0 +1,9 @@
+src 
+  -- app
+    -- payment details
+      -- payment details
+      -- payment detail list
+      -- shared
+
+  --app.module.ts
+index.html
